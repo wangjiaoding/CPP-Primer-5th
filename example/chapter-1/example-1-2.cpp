@@ -1,7 +1,7 @@
 /*
  * @Author: 王教鼎
  * @Date: 2022-05-17 20:58:18
- * @Description: 
+ * @Description: 例子1.2
  */
 #include <iostream>
 
